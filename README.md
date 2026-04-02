@@ -19,7 +19,7 @@ I'm a Software Engineering Technology student at Centennial College with an inte
 ### [Cruise Booking Application](https://github.com/berlinernesse/springboot-cruise-booking)
 A Spring Boot and Thymeleaf web application for booking cruises, with MySQL integration and form-based user interactions.
 
-### Password Generator
+### [Password Generator](https://github.com/berlinernesse/password-generator)
 A JavaScript project that generates secure passwords with customizable options.
 
 ### Calculator
