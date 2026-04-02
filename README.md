@@ -34,4 +34,4 @@ A Tic Tac Toe game built with Angular using reusable components and clear game s
 - Strengthening my frontend and backend integration skills
 
 ## Connect With Me
-- LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/ernesse-berlin/)
+- LinkedIn: [[My LinkedIn URL]](https://www.linkedin.com/in/ernesse-berlin/)
