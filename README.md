@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ernesse 👋
 
-<!--
-**berlinernesse/berlinernesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering Technology student at Centennial College with an interest in web development, frontend design, and building practical applications that are user-friendly and visually polished.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Software Engineering Technology student
+- 💻 Interested in frontend and full-stack development
+- 🌱 Currently building projects with JavaScript, React, Angular, Java, Spring Boot, C#, and MySQL
+- 🎨 I enjoy creating projects that are both functional and aesthetically clean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, C#, SQL
+- **Frontend:** React, Angular, HTML, CSS, Thymeleaf
+- **Backend:** Spring Boot, Node.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Render, Postman
+
+## Featured Projects
+### Cruise Booking App
+A Spring Boot and Thymeleaf web application for booking cruises, with MySQL integration and form-based user interactions.
+
+### Password Generator
+A JavaScript project that generates secure passwords with customizable options.
+
+### Calculator
+A C# calculator application that performs arithmetic operations with a simple desktop interface.
+
+### Angular Tic Tac Toe
+A Tic Tac Toe game built with Angular using reusable components and clear game state updates.
+
+## Currently Working On
+- Improving my GitHub portfolio
+- Building more polished full-stack projects
+- Strengthening my frontend and backend integration skills
+
+## Connect With Me
+- LinkedIn: [Your LinkedIn URL]
